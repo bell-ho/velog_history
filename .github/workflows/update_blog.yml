@@ -3,7 +3,7 @@ name: Update Blog Posts
 on:
   push:
       branches:
-        - master
+        - main
   schedule:
     - cron: '* * * * *'
 
